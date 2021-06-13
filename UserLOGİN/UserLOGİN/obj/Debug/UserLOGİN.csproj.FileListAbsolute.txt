@@ -1,0 +1,10 @@
+C:\Users\ferha\source\repos\UserLOGİN\UserLOGİN\bin\Debug\UserLOGİN.exe.config
+C:\Users\ferha\source\repos\UserLOGİN\UserLOGİN\bin\Debug\UserLOGİN.exe
+C:\Users\ferha\source\repos\UserLOGİN\UserLOGİN\bin\Debug\UserLOGİN.pdb
+C:\Users\ferha\source\repos\UserLOGİN\UserLOGİN\obj\Debug\UserLOGİN.csprojAssemblyReference.cache
+C:\Users\ferha\source\repos\UserLOGİN\UserLOGİN\obj\Debug\UserLOGİN.Form1.resources
+C:\Users\ferha\source\repos\UserLOGİN\UserLOGİN\obj\Debug\UserLOGİN.Properties.Resources.resources
+C:\Users\ferha\source\repos\UserLOGİN\UserLOGİN\obj\Debug\UserLOGİN.csproj.GenerateResource.cache
+C:\Users\ferha\source\repos\UserLOGİN\UserLOGİN\obj\Debug\UserLOGİN.csproj.CoreCompileInputs.cache
+C:\Users\ferha\source\repos\UserLOGİN\UserLOGİN\obj\Debug\UserLOGİN.exe
+C:\Users\ferha\source\repos\UserLOGİN\UserLOGİN\obj\Debug\UserLOGİN.pdb
